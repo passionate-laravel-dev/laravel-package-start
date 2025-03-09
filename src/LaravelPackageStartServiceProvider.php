@@ -2,9 +2,9 @@
 
 namespace Passionator\LaravelPackageStart;
 
+use Passionator\LaravelPackageStart\Commands\LaravelPackageStartCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Passionator\LaravelPackageStart\Commands\LaravelPackageStartCommand;
 
 class LaravelPackageStartServiceProvider extends PackageServiceProvider
 {
