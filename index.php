@@ -4,9 +4,6 @@ declare(strict_types=1);
 
 /**
  * find the maximum value in a series of nested arrays
- * 
- * @param array $xs
- * @return int
  */
 function my_max(array $xs): int
 {
